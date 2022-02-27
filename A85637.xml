@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by His Highnesse the Prince of Wales neer the Downs, against a squadron of the rebels shipping, on Munday last: with the particulars of the fight, 200. killed, 500. taken prisoners, two of their ships sunk, five boarded, 40 piece of ordnance taken, and all their arms and ammunition, and the princes resolution touching the Earl of Warwick. Likewise, the executing of Sir Charles Lucas on Munday night last, and the sentence of the Councell of War against him to be shot to death. Also, a bloudy fight between the English and Scottish forces, commanded by Lieu. Gen. Cromwel and Gen. Monro, Aug. 27. the particulars therof, &amp; number kiled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85637</idno>
+            <idno type="STC">Wing G1776</idno>
+            <idno type="STC">Thomason E463_13</idno>
+            <idno type="STC">ESTC R205088</idno>
+            <idno type="EEBO-CITATION">99864529</idno>
+            <idno type="PROQUEST">99864529</idno>
+            <idno type="VID">162219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162219)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E463[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by His Highnesse the Prince of Wales neer the Downs, against a squadron of the rebels shipping, on Munday last: with the particulars of the fight, 200. killed, 500. taken prisoners, two of their ships sunk, five boarded, 40 piece of ordnance taken, and all their arms and ammunition, and the princes resolution touching the Earl of Warwick. Likewise, the executing of Sir Charles Lucas on Munday night last, and the sentence of the Councell of War against him to be shot to death. Also, a bloudy fight between the English and Scottish forces, commanded by Lieu. Gen. Cromwel and Gen. Monro, Aug. 27. the particulars therof, &amp; number kiled.</title>
+                  <author>Mitchel, P.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>August 31. Printed for R. VV.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.3: P. Mitchel.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648.</term>
+               <term>Warwick, Robert Rich, --  Earl of, d. 1659.</term>
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162219:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY OBTAINED By His Highneſſe the Prince of <hi>Wales</hi> neer the Downs, againſt a Squadron of the Rebels Shipping, on Munday laſt: with the particulars of the Fight, 200. killed, 500. taken priſoners, two of their Ships ſunk, five boarded, 40. piece of Ordnance taken, and all their Arms and Ammunition, And the Princes Reſolution touching the Earl of <hi>Warwick.</hi>
+            </p>
+            <p>Likewiſe, the executing of Sir <hi>Charles Lucas</hi> on <hi>Munday</hi> night laſt, and the ſentence of the Councell of War againſt him to be ſhot to death. Alſo, a bloudy Fight between the Engliſh and Scottiſh Forces, commanded by Lieu. Gen. <hi>Cromwel</hi> and Gen. <hi>Monro, Aug.</hi> 27. the particulars therof, &amp; number kiled.</p>
+            <figure/>
+            <p>
+               <hi>August</hi> 31. Printed for <hi>R. VV. Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162219:2"/>
+            <pb n="1" facs="tcp:162219:2"/>
+            <head>Another FIGHT IN The North, between the two Armies of <hi>England</hi> and <hi>Scotland,</hi> commanded by Lieutenant General <hi>Cromwel,</hi> and Major Generall <hi>Monro.</hi>
+            </head>
+            <head>Vpon Sunday last, being <date>the 27. of this inſtant Moneth of Auguſt, 1648.</date>
+            </head>
+            <opener>
+               <salute>Honored Sir,</salute>
+            </opener>
+            <p>IN my laſt, bearing date <hi>Aug.</hi> 19. I acquainted you of the defearing of the Scottiſh Army, by Lieut. Gen. <hi>Cromwel</hi> and his Forces; ſince which time, our Intelligencer ſaith, he hath had another great Fight with the reſt of their. Forces in the North, command<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by Major General <hi>Monro,</hi> and the Earl of <hi>Kalender,</hi>
+               <pb n="2" facs="tcp:162219:3"/>the manner thus. Major Generall <hi>Monro,</hi> and the Earl of <hi>Kalender</hi> being joyned, whoſe ſudden conjunction inviteth many of the ſcattered Forces, and others, to their aſſiſtance, and having a very conſiderable Body, advances from the Frontier parts, as far as <hi>Kendall</hi> in <hi>Weſtmerland,</hi> where they met with ſome oppoſition, a party of Lieutenant Generall <hi>Cromwels</hi> horſe charging the Scots forlorn of Horſe, commanded by Colonell <hi>Monro,</hi> the Major Generals kinſman, whoſe deport<g ref="char:EOLhyphen"/>ment and gallantry in the Fight <hi>(to give the Divell his due)</hi> were exceeding great, diſplaying the Banners of <hi>Mars,</hi> and charging quite through our Body of Horſe, his men likewiſe fought reſolutely, diſputing the place with great courage, and maintained their paſſes with<g ref="char:EOLhyphen"/>out the loſſe of the leaſt ground. Our men likewiſe fought reſolutely, ſtrove for victory, and defended themſelves like renowned Heroes, but being over<g ref="char:EOLhyphen"/>powred, made an honourable retreat with little loſſe, the enemy were ſo galled, that they durſt not maintain the purſuit.</p>
+            <p>This action hapned on Sunday morning laſt about 8 of the clock in the morning, the loſſe being equall; on our part were ſlain 13. and nine wounded, and as ma<g ref="char:EOLhyphen"/>ny of the Scots.</p>
+            <p>We expect a ſudden engagement between the two Armies, both being reſolved to ſight, the Scots Army is ſaid to be about 6000. <hi>Monro</hi> commanding in chief, being reſolved to fight, and ſaith, <hi>That hee will ſhew Cromwell School play.</hi>
+            </p>
+            <p>Indeed hee hath four thouſand reſolute old ſoldiers, which he brought out of <hi>Ireland</hi> with him, who hath
+<pb n="3" facs="tcp:162219:3"/>been a long time exercized and trained in the Diſci<g ref="char:EOLhyphen"/>pline of War.</p>
+            <p>But notwithſtanding all which, our men feares them not, as appears by the fore-going action, who diſputed the ground at great odds and diſadvantage, and made good their retreat with little loſſe.</p>
+            <p>The Lieutenant Generals Army conſiſts of about five thouſand, all armed, and well diſciplin'd, the coun<g ref="char:EOLhyphen"/>try riſing for him whereſoever he commeth, and aſſi<g ref="char:EOLhyphen"/>ſting him with all neceſſaries whatſoever.</p>
+            <p>But Generall <hi>Monro</hi> to gain the affections of the Country People, hath made Proclamation at the head of each Regiment, and ſet forth a Declaration to the Inhabitants, intimating,</p>
+            <p>
+               <hi>That any ſouldier whatſoever that ſhall uſe any vio<g ref="char:EOLhyphen"/>lence or injury to any of the Inhabitants, or plunder, or take away any goods whatſoever, to the value of two pence under any pretence, ſhall immediatly be tryed by Marſhal Law, and die for it.</hi>
+            </p>
+            <p>We hear that <hi>Monro</hi> hath ſent a meſſage to the king<g ref="char:EOLhyphen"/>dom of Scotland, deſiring, <hi>That ſome additionall forces may be forthwith raiſed and ſent unto him, and that care be taken for proviſions and other neceſsaries for mainte<g ref="char:EOLhyphen"/>nance of the Army.</hi>
+            </p>
+            <p>The two Caſtles of Scarbrough and Pontefract holds out ſtill, and are very reſolute and obſtinate, ſlighting the Lieutenant Generals Summons, which is all at preſent, from.</p>
+            <closer>
+               <dateline>York <date>28. Auguſt, 1648.</date>
+               </dateline>
+               <signed>Your most aſsured friend, <hi>P. MITCHEL.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:162219:4"/>
+            <head>A great Victory obtained at Sea, by his Highneſſe the Prince of <hi>Wales,</hi> against the Rebel<g ref="char:EOLhyphen"/>lious Shipping.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>YEſterday we received intelligence from the Princes Navy, that upon the diſcovery of divers Ships at Sea, Captain <hi>Batten</hi> received Commiſſion from his Highneſſe, to fight with them, and upon Sun<g ref="char:EOLhyphen"/>day morning laſt, weighed anchor, hoyſted ſayl, and made towards them with a gallant Squadron of ſhips, <hi>viz.</hi> the <hi>Swallow,</hi> the <hi>Constant Warwick,</hi> the <hi>Roe-Buck,</hi> the <hi>Pellican,</hi> the <hi>Blackmo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Lady,</hi> and ſome others, who upon ſight thereof, the Rebels ſhips held off, and were loath to engage, Captain <hi>ctatten</hi> perceiving this, com<g ref="char:EOLhyphen"/>manded forth the Swallow the Warwick, and the Roe-Buck, who after three leagues ſayle, came within ſhot of them, gave them a broad ſide, &amp; engaged, inſo<g ref="char:EOLhyphen"/>much that there hapned a very fierce and tedious fight continuing for the ſpace of 7 hours, and with great gallantry and reſolution; but after an hours diſpute, the reſt of the ſhipping came up, and gave the Rebels ſeverall broad ſides, ſinking two of them, and boarded the reſt, diſputing the Conqueſt above Decks, killing many, caſting them into the Sea, the reſt cryed for quarter, and ſubmitted to mercy.</p>
+            <p>
+               <pb n="5" facs="tcp:162219:4"/>
+In this fight it is reported, that the Prince loſt not many men, the enemies were great, above 200. ſlain, and neeer upon 500. taken priſoners, three ſhips ſunk, and four boarded, and ſecured, above 50. piece of Ordnance, and great ſtore of Arms and Ammunition, and other rich Booty, which they had taken from di<g ref="char:EOLhyphen"/>vers Engliſh Marchants, and others, being all of them Iriſh Pyrats and robbers at Sea.</p>
+            <p>It is reported here, that the Earl of <hi>Warwick</hi> intends to put to Sea very ſuddenly, and that the Prince is re<g ref="char:EOLhyphen"/>ſolved to fight with him, and hath ſent ſeverall ſhips to attend his motion.</p>
+            <p>Here is great joy for the Conqueſt in the North, by defeating of the Scottiſh Army, and totally routing the whole Infantry; for it is ſaid, there actions were moſt barbarous and inhumane, and that the Burthens and Oppreſſions of the people were ſo inſufferable, that no Tongue or Pen is able to expreſſe them.</p>
+            <p>O monſtrous and inhumane Creatures! who make Religion their Cloak of knavery, and in ſtead of exe<g ref="char:EOLhyphen"/>cuting Juſtice and mercy, proſecuteth nothing but Bloud-thirſtineſſe and cruelty.</p>
+            <p>They have divers Agents in theſe parts, who have been very active to withdraw the hearts of the Peo<g ref="char:EOLhyphen"/>ple from the obedience of Parliament, and queſtion<g ref="char:EOLhyphen"/>leſſe, might have been very prevalent and powerfull, had not God appeared even in the nick and height of their deſign, who having blaſted their ſtratagems, and Hell bred devices, they are vaniſhed like ſmoak, &amp;c.</p>
+            <closer>
+               <dateline>Dover. <date>29. Auguſt, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:162219:5"/>
+            <opener>
+               <dateline>Guild-Hall <date>Aug. 31. 1648.</date>
+               </dateline>
+            </opener>
+            <p>This day came newes of the ſurrendring of the City of <hi>Colcheſter,</hi> and of the Parliaments forces poſſeſſing themſelves thereof on Tueſday laſt, together with all the Ordnance, Arms, and Ammunition, the inferiour Officers and Souldiers to go home, the great Ones to ſubmit to mercy, who upon their delivery up to the Lord <hi>Fairfax,</hi> it is ſaid, that a Councell of War were called, and after ſome debate touching the proceedings and engagement of Sir <hi>Charles Lucas,</hi> the ſentence paſ<g ref="char:EOLhyphen"/>ſed, and he was adjudged to be ſhot to death, which (as is reported) was accordingly executed upon Tueſday laſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
